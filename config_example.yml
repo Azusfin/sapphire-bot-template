@@ -1,0 +1,15 @@
+# The discord bot token
+# REQUIRED
+token: ""
+
+# The discord bot prefix
+# OPTIONAL
+prefix: "!"
+
+# The discord bot owners userId
+# OPTIONAL
+owners: []
+
+# The discord bot test servers guildId
+# OPTIONAL
+servers: []
