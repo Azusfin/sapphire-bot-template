@@ -23,7 +23,7 @@
         "yaml-schema": "^1.0.0"
     },
     "devDependencies": {
-        "@azusfin/eslint-config": "^1.0.1",
+        "@azusfin/eslint-config": "^1.1.0",
         "@typescript-eslint/eslint-plugin": "^5.12.1",
         "@typescript-eslint/parser": "^5.12.1",
         "eslint": "^8.10.0",
